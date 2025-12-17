@@ -1,3 +1,4 @@
+print(">>> SCRIPT NIVEL A INICIADO <<<")
 from itertools import product
 from typing import List, Dict
 
@@ -54,3 +55,4 @@ if __name__ == "__main__":
     # Mostrar algunos ejemplos
     for r in results[:5]:
         print(r)
+
